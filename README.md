@@ -14,18 +14,18 @@ Create/Update **local.settings.json** with this:
     "AzureWebJobsServiceBus": "",
     "SOCKETLABS_SERVER_ID": your-socketlabs-server-id,
     "SOCKETLABS_API_KEY": "your-socketlabs-api-key",
-    "E18_URL": "https://e18url.net", // optional
-    "E18_KEY": "secret token", // optional
-    "E18_SYSTEM": "dsf", // optional
-    "E18_EMPTY_JOB": true // optional
+    // "E18_URL": "https://e18url.net", // optional
+    // "E18_KEY": "secret token", // optional
+    // "E18_SYSTEM": "dsf", // optional
+    // "E18_EMPTY_JOB": true // optional
   },
   "ConnectionStrings": {}
 }
 ```
 
-### E18
+<!-- ### E18
 
-To support [E18](https://github.com/vtfk/e18-node#usage), add `E18_URL`, `E18_KEY` and `E18_SYSTEM`
+To support [E18](https://github.com/vtfk/e18-node#usage), add `E18_URL`, `E18_KEY` and `E18_SYSTEM` -->
 
 ### Setup in Azure
 
