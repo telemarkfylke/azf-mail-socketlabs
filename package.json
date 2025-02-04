@@ -1,6 +1,6 @@
 {
   "name": "azf-mail-sendgrid",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "scripts": {
     "refresh": "rm -rf node_modules && rm package-lock.json && npm i",
